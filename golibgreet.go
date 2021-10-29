@@ -1,4 +1,4 @@
-package golib_greet
+package golibgreet
 
 import (
 	"fmt"
